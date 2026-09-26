@@ -1,0 +1,23 @@
+## Clean Code Guidelines
+
+- DO NOT USE SHADOW ANYWHERE
+- Use Outfit font with -2% letter spacing.
+- Prioritize readable, simple, and maintainable code.
+- Do not create components only to make the file look shorter.
+- Use functions to organize logic when a separate component is not necessary.
+- Create a component only when it is reusable, has a clear responsibility, or significantly improves readability.
+- Avoid excessive component nesting and unnecessary abstraction.
+- Keep functions focused on one clear responsibility.
+- Avoid unnecessarily long functions.
+- Use descriptive and consistent naming for variables, functions, components, and files.
+- Avoid duplicated logic; extract shared logic into functions when appropriate.
+- Avoid premature abstraction and over-engineering.
+- Keep business logic separate from UI logic when possible.
+- Avoid unnecessary state and effects.
+- Prefer simple solutions over complex patterns when both achieve the same result.
+- Do not overuse comments.
+- Comments must be written in English.
+- Comments must be clear, concise, and explain the reason or important context, not obvious code behavior.
+- Comments must contain only text; do not use emojis, icons, or decorative symbols.
+- Remove outdated or unnecessary comments.
+- Follow consistent formatting and project conventions.
